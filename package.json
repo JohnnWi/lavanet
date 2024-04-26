@@ -1,0 +1,19 @@
+{
+  "name": "lava-all",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@axelar-network/axelarjs-sdk": "^0.14.1",
+    "@cosmjs/stargate": "^0.32.2",
+    "dotenv": "^16.4.5",
+    "near-api-js": "^3.0.3",
+    "starknet": "^5.24.3",
+    "web3": "^4.5.0"
+  }
+}
